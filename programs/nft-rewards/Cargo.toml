@@ -22,7 +22,7 @@ anchor-lang = { version = "0.28.0", features = ["init-if-needed"] }
 anchor-spl = "0.28.0"
 spl-token = { version = "3.3.0", features = ["no-entrypoint"] }
 mpl-token-metadata = "3.0.1"
-mpl-utils = "0.3.2"
+mpl-utils = "0.3.6"
 mpl-token-auth-rules = "1.4.3"
 solana-nft-programs-creator-standard = { version = "1.0.0", features = ["cpi"] }
 solana-program = "1.10.29"
